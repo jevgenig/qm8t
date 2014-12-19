@@ -1,0 +1,28 @@
+{
+    "name": "qm8t",
+    "version": "0.0.1",
+    "homepage": "https://github.com/jevgenig/qm8t",
+    "authors": [
+        "Jevgeni Geimanen <jevgeni.geimanen@gmail.com>"
+    ],
+    "description": "Helps with queues, states, blocking and non-blocking state changes, knockout bindings",
+    "main": "src/qm8t.min.js",
+    "keywords": [
+        "queues",
+        "states",
+        "knockout",
+        "underscore"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "lodash": "~2.4.1",
+        "knockout": "~3.2.0"
+    }
+}
